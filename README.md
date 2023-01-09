@@ -5,7 +5,7 @@
 
  You can run it with any editors like Visual Studio Code
 
- <img src='.//..//Capture.JPG'>
+ <img src='.//..//Capture.png'>
   <img src='.//..//Capture2.JPG'>
  <img src='.//..//Capture3.JPG'>
 
