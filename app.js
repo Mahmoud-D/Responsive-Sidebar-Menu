@@ -16,5 +16,3 @@ light.addEventListener('click',()=>{
     sidebar.className="sidebar light";
     activeListItem='list-item active light'
 })
-console.log(activeListItem)
-console.log(night)
